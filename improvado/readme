@@ -1,0 +1,9 @@
+The model itself (main algorithm) is in file main.py
+
+The file chat_part.py is used to collect input from user (question, table and columns)
+
+The file execution.py is used to get the response (SQL query and corresponding select from DB)
+
+The file test_framework.py provides the list of further improvements and needed metrics
+
+The file clickhouse_connection.py contains DB's credentials
